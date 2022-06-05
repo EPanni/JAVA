@@ -1,0 +1,79 @@
+[33mcommit 4ca1cc4552fa542c37d3954ebc6790ce7c2127a4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Erick Panni <erickpanni@icloud.com>
+Date:   Tue Mar 29 21:28:40 2022 -0300
+
+     findAll
+
+[33mcommit ed0b0a57fc5787567ad1d0c64df11fba358b6689[m
+Author: Erick Panni <erickpanni@icloud.com>
+Date:   Tue Mar 29 21:22:56 2022 -0300
+
+    finfByDepartment implementation
+
+[33mcommit dbc156d02131582122fbfe2322f9153d20491d44[m
+Author: Erick Panni <erickpanni@icloud.com>
+Date:   Tue Mar 29 20:51:52 2022 -0300
+
+    Adding functions to instantiate Sellers and Departments
+
+[33mcommit fe83a2a92fa4bab106b56263583b573e3538623c[m
+Author: Erick Panni <erickpanni@icloud.com>
+Date:   Tue Mar 29 20:35:49 2022 -0300
+
+    FindByID
+
+[33mcommit 9329bc5078ab4d5f58eaf73042d6b5a4c59186ec[m
+Author: Erick Panni <erickpanni@icloud.com>
+Date:   Tue Mar 29 19:51:10 2022 -0300
+
+    SellerDaoJDBC & DaoFactory
+
+[33mcommit 3cc57210454cc346be314d84809d66212b5220f1[m
+Author: Erick Panni <erickpanni@icloud.com>
+Date:   Tue Mar 29 19:01:00 2022 -0300
+
+     Seller Dao - fix
+
+[33mcommit 2ea68f3350cd8ddf5eef0167f927007be4236cae[m
+Author: Erick Panni <erickpanni@icloud.com>
+Date:   Mon Mar 28 21:15:12 2022 -0300
+
+    DepartmentDao and SellerDao interfaces
+
+[33mcommit 445b14f7b05a2dfdef080302d8c61238050f5ed7[m
+Author: Erick Panni <erickpanni@icloud.com>
+Date:   Mon Mar 28 21:11:43 2022 -0300
+
+    Department.DAO
+
+[33mcommit 3bbb1650af9a585420e525f12551c8d678a38ba5[m
+Author: Erick Panni <95286849+EPanni@users.noreply.github.com>
+Date:   Mon Mar 28 20:57:48 2022 -0300
+
+    Updating Db properties
+    
+    Adding a comment
+
+[33mcommit cc8b7afaac2fef57d9283e88689038bb27917100[m
+Author: Erick Panni <erickpanni@icloud.com>
+Date:   Mon Mar 28 20:56:06 2022 -0300
+
+    Creted Class: Seller
+
+[33mcommit 66fcd6498be5d0ff1e7fee75f1eb332d67e5a9a6[m
+Author: Erick Panni <erickpanni@icloud.com>
+Date:   Mon Mar 28 20:41:01 2022 -0300
+
+    Adding Class Department
+
+[33mcommit 2267098f7245a08fcdb7748a7e1ed452fff7a61e[m
+Author: Erick Panni <erickpanni@icloud.com>
+Date:   Mon Mar 28 20:14:52 2022 -0300
+
+    Creating ptoject and repository
+
+[33mcommit dd59549e269944efffe5baedd5e9e2940d7ece14[m
+Author: Erick Panni <95286849+EPanni@users.noreply.github.com>
+Date:   Mon Mar 28 20:03:18 2022 -0300
+
+    Initial commit
